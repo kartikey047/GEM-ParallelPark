@@ -1,7 +1,7 @@
 # GEM-ParallelPark
 Code for autonomous parallel parking of the GEM e2 Vehicle (ECE 484 Final Project).
 Note: This final project was a joint work between myself, Caleb Peach (NetID: calebrp2), 
-James Lee (NetID: jl212), Aartha Tavshikar (arthat2), and Dhatri Parakal (dhatrip2).
+James Lee (jl212), Aartha Tavshikar (arthat2), and Dhatri Parakal (dhatrip2).
 
 The code supports autonomous self-driving of the GEN e2 Vehicle for Parallel Parking. 
 - Lidar and Camera perception assist with parking space detection, dimension computation, and obstacle detection for safety
